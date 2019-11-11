@@ -1,0 +1,5 @@
+cd /d D:\CLOUD DEV\HW3\src\build
+
+cd /d D:\CLOUD DEV\HW3
+
+cd /d D:\CLOUD DEV\HW3\mongodb

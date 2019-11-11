@@ -1,0 +1,29 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "home work 3",
+  "main": "./src/build/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Liolia",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "grunt": "^1.0.4",
+    "grunt-babel": "^8.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "mongodb": "^3.3.3",
+    "n-odata-server": "^0.4.1",
+    "nedb": "^1.8.0",
+    "node-ui5": "^2.0.4",
+    "nodemon": "^1.19.4",
+    "simple-odata-server": "^1.1.1",
+    "simple-odata-server-mongodb": "^1.0.0",
+    "simple-odata-server-nedb": "^1.0.0"
+  }
+}
